@@ -1,0 +1,38 @@
+[
+  {
+    "admin": true,
+    "confirm": "abcd",
+    "district": "Dhaka",
+    "email": "user1@example.com",
+    "group": "A-",
+    "name": "John Doe",
+    "password": "abcdef",
+    "status": true,
+    "upazila": "Gulshan",
+    "url": "https://i.ibb.co/3NFcmJc/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg"
+  },
+  {
+    "admin": false,
+    "confirm": "efgh",
+    "district": "Khulna",
+    "email": "user2@example.com",
+    "group": "O+",
+    "name": "Jane Smith",
+    "password": "efghij",
+    "status": true,
+    "upazila": "Jessore",
+    "url": "https://i.ibb.co/3NFcmJc/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg"
+  },
+  {
+    "admin": true,
+    "confirm": "ijkl",
+    "district": "Rajshahi",
+    "email": "user3@example.com",
+    "group": "B-",
+    "name": "Alice Johnson",
+    "password": "ijklmn",
+    "status": false,
+    "upazila": "Pabna",
+    "url": "https://i.ibb.co/3NFcmJc/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg"
+  }
+]
