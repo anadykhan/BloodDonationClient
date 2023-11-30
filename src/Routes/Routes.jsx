@@ -4,6 +4,7 @@ import Root from "../components/Root/Root";
 import Login from "../components/Login/Login";
 import Dashboard from "../components/Dashboard/Dashboard";
 import Profile from "../components/Profile/Profile";
+import CreateDonation from "../components/CreateDonation/CreateDonation";
 
 const router = createBrowserRouter([
     {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
             {
                 path: '/dashboard/profile',
                 element: <Profile></Profile>
+            },
+            {
+                path: '/dashboard/create-donation-request',
+                element: <CreateDonation></CreateDonation>
             }
         ]
     },

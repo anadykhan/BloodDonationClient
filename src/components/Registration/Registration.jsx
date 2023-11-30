@@ -92,7 +92,7 @@ const Registration = () => {
                         label="Upazilas"
                         name="upazilas"
                     >
-                        {districtsData.data.map((upaliza) => (
+                        {upazilasData.data.map((upaliza) => (
                             <MenuItem key={upaliza.name} value={upaliza.name}>
                                 {upaliza.name}
                             </MenuItem>
